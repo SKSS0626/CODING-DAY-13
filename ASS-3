@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+	int n,i;
+	printf("Enter number of times to print:");
+	scanf("%d",&n);
+	for(i=1;i<n+1;i++)
+	printf("SALADI KARTHIK SURYA SAI\n");
+	return 0;
+
+}
